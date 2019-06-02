@@ -41,5 +41,4 @@ class Song
     end
     artist_list
   end
-  
 end
